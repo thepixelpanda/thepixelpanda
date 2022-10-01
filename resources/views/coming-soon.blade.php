@@ -55,7 +55,7 @@
     <p>Logo</p>
   </div> -->
   <div class="middle">
-    <h1>COMING SOON</h1>
+    <h1>Something exciting is cooking...</h1>
     <hr>
     <p id="demo" style="font-size:30px"></p>
   </div>

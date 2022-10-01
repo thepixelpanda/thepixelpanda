@@ -16,3 +16,10 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('coming-soon');
 });
+
+/**
+ * WIP
+ */
+Route::group(["namespace" => "App\Http\Controllers\\"], function() {
+    Route::get('/home', "PagesController@home");
+});
