@@ -63,8 +63,28 @@
     <p>Some text</p>
   </div> -->
 </div>
+{{-- Google Ads --}}
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9420042936331392"
      crossorigin="anonymous"></script>
+<!-- Tiles -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420042936331392"
+     data-ad-slot="2772835822"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-9420042936331392"
+     data-ad-slot="8344688717"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 <script>
 // Set the date we're counting down to
