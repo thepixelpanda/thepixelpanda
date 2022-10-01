@@ -13,4 +13,6 @@ if ($uri !== '/' && file_exists($publicPath.$uri)) {
     return false;
 }
 
-require_once $publicPath.'/index.php';
+$path = str_replace('\public', '', $publicPath);
+
+require_once $path.'/index.php';
