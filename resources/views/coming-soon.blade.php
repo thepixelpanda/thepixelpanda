@@ -63,6 +63,8 @@
     <p>Some text</p>
   </div> -->
 </div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9420042936331392"
+     crossorigin="anonymous"></script>
 
 <script>
 // Set the date we're counting down to
