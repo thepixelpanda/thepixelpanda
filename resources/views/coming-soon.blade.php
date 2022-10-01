@@ -11,7 +11,7 @@
   }
 
   .bgimg {
-    background-image: url('/bg.jpg');
+    background-image: url({{ asset_url("bg.jpg") }});
     height: 100%;
     background-position: center;
     background-size: cover;
