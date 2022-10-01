@@ -11,6 +11,10 @@
   gtag('config', 'G-RY08JG00FC');
 </script>
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9420042936331392"
+     crossorigin="anonymous"></script>
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
@@ -73,9 +77,7 @@
     <p>Some text</p>
   </div> -->
 </div>
-{{-- Google Ads --}}
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9420042936331392"
-     crossorigin="anonymous"></script>
+
 <!-- Tiles -->
 <ins class="adsbygoogle"
      style="display:block"
